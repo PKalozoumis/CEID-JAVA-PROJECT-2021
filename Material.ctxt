@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Material
+comment1.params=name\ description\ id\ level1\ level2\ level3
+comment1.target=Material(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ double)
+comment1.text=\r\n\ Level\ 1\:\ 1\ person\r\n\ Level\ 2\:\ 2-4\ people\r\n\ Level\ 3\:\ 5+\ people\r\n
+comment2.params=
+comment2.target=double[]\ getLevels()
+comment3.params=
+comment3.target=java.lang.String\ getDetails()
+numComments=4

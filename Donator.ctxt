@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Donator
+comment1.params=name\ phone
+comment1.target=Donator(java.lang.String,\ java.lang.String)
+comment2.params=requestDonation
+comment2.target=void\ add(RequestDonation)
+comment3.params=requestDonation
+comment3.target=void\ remove(RequestDonation)
+comment4.params=requestDonation\ quantity
+comment4.target=void\ modify(RequestDonation,\ double)
+comment5.params=
+comment5.target=void\ commit()
+comment6.params=
+comment6.target=void\ reset()
+comment7.params=index
+comment7.target=RequestDonation\ getFromIndex(int)
+comment8.params=
+comment8.target=int\ listOfferedEntities()
+numComments=9

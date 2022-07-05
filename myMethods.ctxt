@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=myMethods
+comment1.params=
+comment1.target=java.lang.String\ readString()
+comment2.params=
+comment2.target=int\ readInt()
+comment3.params=
+comment3.target=double\ readDouble()
+comment4.params=lower\ upper
+comment4.target=int\ choose(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ YNchoose()
+numComments=6
