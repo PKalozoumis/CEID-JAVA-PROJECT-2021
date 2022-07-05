@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This project was made for the first year undergraduate course "Object Oriented Programming" of the Computer Engineering & Informatics Department (CEID) of the University of Patras.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+It simulates a simplified donation system aimed at the support of vulnerable groups during the COVID-19 pandemic.
+
+Users can register/ login as a Donator or a Beneficiary. Donators can donate any amount of the requested products/ services, Beneficiaries can choose one of the offered products/ services and another user, the Admin, can view all available products/ services and registered users.
