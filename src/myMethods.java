@@ -11,6 +11,7 @@ public class myMethods
         {
             for (int i = 0; (b = (char)System.in.read())!='\n'; i++)
             {
+                if (b == '\r') continue;
                 str += b;
             }
         }
